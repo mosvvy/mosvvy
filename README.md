@@ -12,8 +12,8 @@ JavaScript | TypeScript | React | Next.js | Python
 
 # 💻Featured Projects
 
-- [Booksy](https://github.com/Textterrion/teamwork-html-css) – a bookstore single-page application built with HTML+CSS, JavaScript. Study team project. Realised the book modal, finished the book catalogue section. Made a lot of code fixes and improved the site's performance.
-- [Coffee Joy](https://github.com/RomIvaNeirity/Booksy-Group11) – a cafe landing page built with Java Script and HTML+CSS. Study team project with a focus on responsive design and semantic HTML. Realised the header, added styles for the mobile menu.
+- [Booksy](https://github.com/RomIvaNeirity/Booksy-Group11) – a bookstore single-page application built with HTML+CSS, JavaScript. Study team project. Realised the book modal, finished the book catalogue section. Made a lot of code fixes and improved the site's performance.
+- [Coffee Joy](https://github.com/Textterrion/teamwork-html-css) – a cafe landing page built with Java Script and HTML+CSS. Study team project with a focus on responsive design and semantic HTML. Realised the header, added styles for the mobile menu.
 
 ## 🗣️ Languages
 
